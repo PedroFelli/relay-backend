@@ -23,7 +23,7 @@ const {connectionType:  PostConnection, edgeType: PostEdge} = connectionDefiniti
 
 export {
   PostConnection,
-  PostType
+  PostEdge
 }
 
 export default PostType;
